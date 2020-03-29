@@ -1,0 +1,3 @@
+C:/Users/oguzn/CLionProjects/ArabaOyunu/cmake-build-debug/CMakeFiles/ArabaOyunu.dir
+C:/Users/oguzn/CLionProjects/ArabaOyunu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oguzn/CLionProjects/ArabaOyunu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
